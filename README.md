@@ -1,4 +1,11 @@
-### Hi there 👋
+ <img src="https://user-images.githubusercontent.com/54585175/148264859-e23b1802-c5eb-4e25-a71e-40e04684a197.gif" width="100" > <br>
+ ### Hi there !
+I am Vinícius Fernandes.
+
+- Based in São Paulo, SP, Brazil.
+- Currently working as Web Developer in Nexo Jornal
+
+
 
 <!--
 **viniciusfersil123/viniciusfersil123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
