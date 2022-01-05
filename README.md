@@ -1,9 +1,9 @@
  <img src="https://user-images.githubusercontent.com/54585175/148264859-e23b1802-c5eb-4e25-a71e-40e04684a197.gif" width="100" > <br>
- ### Hi there !
-I am Vinícius Fernandes.
+ ## Hi there ! I am Vinícius Fernandes
 
-- Based in São Paulo, SP, Brazil.
-- Currently working as Web Developer in Nexo Jornal
+
+🏙️ Based in São Paulo - SP, Brazil. <br>
+🔭Currently working as Web Developer in [Nexo Jornal](https://www.nexojornal.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.instagram.com/menislofi/)
 
 
 
