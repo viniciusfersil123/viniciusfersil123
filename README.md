@@ -11,7 +11,13 @@
 <img src="https://user-images.githubusercontent.com/54585175/148271128-ab570d61-e310-4754-b1e7-31d19c5a69d0.png" width="60"  >
 <img src="https://user-images.githubusercontent.com/54585175/148271527-2076f21b-d92f-4f07-811c-71e495b695d2.png" width="60"  >
 <img src="https://user-images.githubusercontent.com/54585175/148271792-f2a0a21a-c0c4-440b-9d1a-72594d06e819.png" width="60"  >
-  <img src="https://user-images.githubusercontent.com/54585175/148272407-1a35d2c3-a8de-4887-b1af-c534cf77e47f.png" width="60"  >
+<img src="https://user-images.githubusercontent.com/54585175/148274524-bbd5f667-abe8-4e12-81c2-8d266e1ea6c4.png" width="60"  >
+<img src="https://user-images.githubusercontent.com/54585175/148274446-e8f44c96-e378-4111-bcef-bea40ca23dd3.png" width="60"  >
+  <img src="https://user-images.githubusercontent.com/54585175/148274998-60bd2ca1-5c9c-49f8-a322-e68ee30d0762.png" width="60"  >
+  <img src="https://user-images.githubusercontent.com/54585175/148275143-cd90bd27-a4f4-4658-a0fd-5ba4ffd92305.jpg" width="60"  >
+  <img src="https://user-images.githubusercontent.com/54585175/148275389-6a88528b-edcd-4fe0-8c3c-55ca486d41d4.jpg" width="60"  >
+  <img src="https://user-images.githubusercontent.com/54585175/148275437-1683df96-5d46-4cba-98a7-fddfc7f6a791.png" width="60"  >
+  <img src="https://user-images.githubusercontent.com/54585175/148275461-f6c7c0a4-c9c1-49b6-8177-41dd2278456e.png" width="60"  >
 </span>
  </div>
 <br>
@@ -19,10 +25,6 @@
 🏙️ Based in São Paulo - SP, Brazil. <br>
 🔭Currently working as web developer in [Nexo Jornal](https://www.nexojornal.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.instagram.com/menislofi/)<br>
 🎨 I am also an artist and musician, you can check my [Cargo Collective page](http://cargocollective.com/viniciusfernandess/) (a little bit outdated)
-
-
-
-
 
 <!--
 **viniciusfersil123/viniciusfersil123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
