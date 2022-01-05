@@ -1,10 +1,25 @@
- <img src="https://user-images.githubusercontent.com/54585175/148264859-e23b1802-c5eb-4e25-a71e-40e04684a197.gif" width="100" > <br>
- ## Hi there ! I am Vinícius Fernandes
+ <div  align="center">
+<img src="https://user-images.githubusercontent.com/54585175/148264859-e23b1802-c5eb-4e25-a71e-40e04684a197.gif" width="100"  > 
+<h1> Hi there ! I am Vinícius Fernandes </h1>
+ </div>
+  <div  align="center">
+ <span >
+ <img src="https://user-images.githubusercontent.com/54585175/148269993-fe966390-6b19-4aa5-9e35-b3d99687cda3.png" width="60"  > 
+ <img src="https://user-images.githubusercontent.com/54585175/148270383-e1d7eb6a-2b17-4a06-b762-ae922396b998.png" width="60"  >
+ <img src="https://user-images.githubusercontent.com/54585175/148270743-0e95df0c-9061-46af-83cc-2006130632ed.png" width="60"  >
+   <img src="https://user-images.githubusercontent.com/54585175/148271123-6429a82a-4fa9-4f52-a059-e1ee08dab7d7.png" width="60"  >
+   <img src="https://user-images.githubusercontent.com/54585175/148271128-ab570d61-e310-4754-b1e7-31d19c5a69d0.png" width="60"  >
+</span>
+</div>
+<br>
 
 
+
+
+<br>
 🏙️ Based in São Paulo - SP, Brazil. <br>
-🔭Currently working as Web Developer in [Nexo Jornal](https://www.nexojornal.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.instagram.com/menislofi/)
-
+🔭Currently working as web developer in [Nexo Jornal](https://www.nexojornal.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.instagram.com/menislofi/)<br>
+🎨 I am also an artist and musician, you can check my [Cargo Collective page](http://cargocollective.com/viniciusfernandess/) (a little bit outdated)
 
 
 <!--
