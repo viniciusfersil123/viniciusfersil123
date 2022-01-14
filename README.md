@@ -6,24 +6,21 @@
  <span >
 <img src="https://user-images.githubusercontent.com/54585175/149568617-9d7ce3ca-6edd-42f1-870d-0ce18d6227d2.png" width="50"  > 
 <img src="https://user-images.githubusercontent.com/54585175/148270383-e1d7eb6a-2b17-4a06-b762-ae922396b998.png" width="50"  >
-<img src="https://user-images.githubusercontent.com/54585175/148270743-0e95df0c-9061-46af-83cc-2006130632ed.png" width="50"  >
-<img src="https://user-images.githubusercontent.com/54585175/148271123-6429a82a-4fa9-4f52-a059-e1ee08dab7d7.png" width="50"  >
-<img src="https://user-images.githubusercontent.com/54585175/148271128-ab570d61-e310-4754-b1e7-31d19c5a69d0.png" width="50"  >
-<img src="https://user-images.githubusercontent.com/54585175/148271527-2076f21b-d92f-4f07-811c-71e495b695d2.png" width="50"  >
-<img src="https://user-images.githubusercontent.com/54585175/148271792-f2a0a21a-c0c4-440b-9d1a-72594d06e819.png" width="50"  >
+<img src="https://user-images.githubusercontent.com/54585175/149574569-a391ecf3-0ad6-4465-80cf-04104e4ab9c4.png" width="150"  >
+<img src="https://user-images.githubusercontent.com/54585175/149573453-f01f2526-cebf-4c67-b231-bf8574a84c93.png" height= "50" width="70"  >
+<img src="https://user-images.githubusercontent.com/54585175/149573249-6d4f3869-d626-44d3-b4d7-61fa590cac47.png" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148272407-1a35d2c3-a8de-4887-b1af-c534cf77e47f.png" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148278084-278d3511-90c8-42b7-89e9-08f3c12d3bd1.png" width="50"  >
-<img src="https://user-images.githubusercontent.com/54585175/148278169-bffadd19-802b-4093-9a4b-4932af5cbb04.jpg" width="50"  >
+<img src="https://user-images.githubusercontent.com/54585175/149572479-b4b922a7-11d3-47d6-bde4-ea60e3d2d73b.png" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148278223-386fc127-2ac0-4240-b93b-837bcdd9635e.jpg" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148278333-f122915b-f5a1-4840-9622-14010027228f.png" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148278420-9b1f58ce-6d5c-4ae9-b9bb-2326918fc470.png" width="50"  >
  
 </span>
+
  </div>
 <br>
 <br>
-
-
 
 - 🏙️  Based in São Paulo - SP, Brazil
 - 🔭Currently working as web developer in [Nexo Jornal](https://www.nexojornal.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.instagram.com/menislofi/)<br>
