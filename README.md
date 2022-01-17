@@ -28,10 +28,12 @@
 - 🎓 I have two BAs: 📖 Literary Studies (UNICAMP) and 🧬 Biological Sciences (UNESP). I also have a MA in 🔊 Music (USP). You can check my [academic resumeé]( http://lattes.cnpq.br/2493782358372786)
 - 🌱 I’m currently learning: Principles of Functional Programming, Software Architeture and RTOS for developing embedded audio applications
 - 📫 How to reach me: viniciusfersil@gmail.com
+- Languages: 🇧🇷 Brazilian Portuguese/ 🇬🇧 English / 🇩🇪 Intermediate German
 
+## Last Tech Books Read 📚
+- [Learning React: Modern Patterns for Developing React Apps](https://www.amazon.com.br/Learning-React-2e-Eve-Porcello/dp/1492051721)
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LQJ3YWH29CG0&keywords=accelerate&qid=1642423590&s=books&sprefix=accelerate%2Cstripbooks%2C191&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74)
 <!--
-
-línguas
 recomendações de leitura
 apresentação de projetos e repositórios
 
