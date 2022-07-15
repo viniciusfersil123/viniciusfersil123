@@ -26,7 +26,7 @@
 - 🔭Currently working as web developer in [Nexo Jornal](https://www.nexojornal.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.instagram.com/menislofi/)<br>
 - 🎨 I am also an artist and musician, you can check my [Cargo Collective page](http://cargocollective.com/viniciusfernandess/) (a little bit outdated)
 - 🎓 I have two BAs: 📖 Literary Studies (UNICAMP) and 🧬 Biological Sciences (UNESP). I also have a MA in 🔊 Music (USP). You can check my [academic resumeé]( http://lattes.cnpq.br/2493782358372786)
-- 🌱 I’m currently learning: I am deepening my skills in FrontEnd Development in libraries and frameworks such as React, Next JS, Styled-components
+- 🌱 I’m currently learning: I am deepening my skills in FrontEnd Development in libraries and frameworks such as React, Next JS, Vue JS
 - 📫 How to reach me: viniciusfersil@gmail.com
 - Languages: 🇧🇷 Brazilian Portuguese/ 🇬🇧 English / 🇩🇪 Intermediate German
 
