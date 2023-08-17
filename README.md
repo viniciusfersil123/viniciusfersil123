@@ -30,7 +30,7 @@
 - 📫 How to reach me: viniciusfersil@gmail.com
 - Languages: 🇧🇷 Brazilian Portuguese/ 🇬🇧 English / 🇩🇪 Intermediate German
 ## Currently Reading 📖
--[Theory and Techniques of Electronic Music - Miller Puckette](http://msp.ucsd.edu/techniques/v0.03/book.pdf)
+- [Theory and Techniques of Electronic Music - Miller Puckette](http://msp.ucsd.edu/techniques/v0.03/book.pdf)
 ## Last Tech Books Read 📚
 - [Operating Systems: Design and Implementation](https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388)
 - [Learning React: Modern Patterns for Developing React Apps](https://www.amazon.com.br/Learning-React-2e-Eve-Porcello/dp/1492051721)
