@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <img src="https://user-images.githubusercontent.com/54585175/148273120-1b56a1a1-89cd-4e13-8501-2c6f2ac0cf93.gif" width="100" /> 
 <h1> Hi there ! I am Vinícius Fernandes </h1>
  </div>
