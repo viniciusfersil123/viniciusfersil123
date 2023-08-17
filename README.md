@@ -16,7 +16,8 @@
 <img src="https://user-images.githubusercontent.com/54585175/148278223-386fc127-2ac0-4240-b93b-837bcdd9635e.jpg" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148278333-f122915b-f5a1-4840-9622-14010027228f.png" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148278420-9b1f58ce-6d5c-4ae9-b9bb-2326918fc470.png" width="50"  >
-<img src="[https://user-images.githubusercontent.com/54585175/148278420-9b1f58ce-6d5c-4ae9-b9bb-2326918fc470.png](https://github.com/viniciusfersil123/viniciusfersil123/assets/54585175/c0b40ecf-6e06-48cd-a028-c9ccc09ed454)" width="50"  >
+<img src="[https://user-images.githubusercontent.com/54585175/148278420-9b1f58ce-6d5c-4ae9-b9bb-2326918fc470.png width="50"> 
+
 
 
 </span>
