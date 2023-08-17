@@ -25,6 +25,7 @@
  </div>
 <br>
 <br>
+
 - 🏙️  Based in São Paulo - SP, Brazil
 - 🔭Currently working as web developer in [UOL](https://www.uol.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.instagram.com/menislofi/)<br>
 - 🎨 I am also an artist and musician, you can check my [Cargo Collective page](http://cargocollective.com/viniciusfernandess/) (a little bit outdated)
