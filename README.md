@@ -1,4 +1,15 @@
+ <div align="center">
+<img src="https://user-images.githubusercontent.com/54585175/148273120-1b56a1a1-89cd-4e13-8501-2c6f2ac0cf93.gif" width="100" /> 
+<h1> Hi there ! I am Vinícius Fernandes </h1>
+ </div>
+  <div  align="center">
+ <span>
+<img src="https://user-images.githubusercontent.com/54585175/183428282-667a6ee5-622e-406c-a745-c25440d47384.png" height= "50" > 
+<img src="https://user-images.githubusercontent.com/54585175/149568617-9d7ce3ca-6edd-42f1-870d-0ce18d6227d2.png" width="50"  > 
+<img src="https://user-images.githubusercontent.com/54585175/148270383-e1d7eb6a-2b17-4a06-b762-ae922396b998.png" width="50"  >
+<img src="https://user-images.githubusercontent.com/54585175/149574569-a391ecf3-0ad6-4465-80cf-04104e4ab9c4.png" width="150"  >
 <img src="https://user-images.githubusercontent.com/54585175/149573453-f01f2526-cebf-4c67-b231-bf8574a84c93.png" height= "50" width="70"  >
+  <img src="[https://user-images.githubusercontent.com/54585175/148278420-9b1f58ce-6d5c-4ae9-b9bb-2326918fc470.png width="50"> 
 <img src="https://user-images.githubusercontent.com/54585175/149573249-6d4f3869-d626-44d3-b4d7-61fa590cac47.png" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148272407-1a35d2c3-a8de-4887-b1af-c534cf77e47f.png" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148278084-278d3511-90c8-42b7-89e9-08f3c12d3bd1.png" width="50"  >
@@ -6,6 +17,10 @@
 <img src="https://user-images.githubusercontent.com/54585175/148278223-386fc127-2ac0-4240-b93b-837bcdd9635e.jpg" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148278333-f122915b-f5a1-4840-9622-14010027228f.png" width="50"  >
 <img src="https://user-images.githubusercontent.com/54585175/148278420-9b1f58ce-6d5c-4ae9-b9bb-2326918fc470.png" width="50"  >
+<img src="[https://user-images.githubusercontent.com/54585175/148278420-9b1f58ce-6d5c-4ae9-b9bb-2326918fc470.png width="50"> 
+
+
+
 </span>
  </div>
 <br>
@@ -17,11 +32,8 @@
 - 🌱 I’m currently learning: I am deepening my skills in FrontEnd Development in libraries and frameworks such as React, Next JS, Vue JS
 - 📫 How to reach me: viniciusfersil@gmail.com
 - Languages: 🇧🇷 Brazilian Portuguese/ 🇬🇧 English / 🇩🇪 Intermediate German
-
 ## Currently Reading 📖
-
 -[Theory and Techniques of Electronic Music - Miller Puckette](http://msp.ucsd.edu/techniques/v0.03/book.pdf)
-
 ## Last Tech Books Read 📚
 - [Operating Systems: Design and Implementation](https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388)
 - [Learning React: Modern Patterns for Developing React Apps](https://www.amazon.com.br/Learning-React-2e-Eve-Porcello/dp/1492051721)
@@ -43,3 +55,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
