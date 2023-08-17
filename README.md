@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/54585175/148273120-1b56a1a1-89cd-4e13-8501-2c6f2ac0cf93.gif" width="100" /> 
 <h1> Hi there ! I am Vinícius Fernandes </h1>
  </div>
-  <div  align="center">
+ <div  align="center">
  <span>
 <img src="https://user-images.githubusercontent.com/54585175/183428282-667a6ee5-622e-406c-a745-c25440d47384.png" height= "50" /> 
 <img src="https://user-images.githubusercontent.com/54585175/149568617-9d7ce3ca-6edd-42f1-870d-0ce18d6227d2.png" width="50"  /> 
@@ -20,10 +20,11 @@
 <img src="https://github.com/viniciusfersil123/viniciusfersil123/assets/54585175/205971cd-2b4d-458a-9e47-1249894f62e9.png" width="50"/>
 <img src="https://github.com/viniciusfersil123/viniciusfersil123/assets/54585175/ac05067d-dcfc-437f-bf0c-48e68c25dc59.png" width="50 />
 </span>
- </div>
+</div>
 <br>
 <br>
 
+<div>
 - 🏙️  Based in São Paulo - SP, Brazil
 - 🔭Currently working as web developer in [UOL](https://www.uol.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.instagram.com/menislofi/)<br>
 - 🎨 I am also an artist and musician, you can check my [Cargo Collective page](http://cargocollective.com/viniciusfernandess/) (a little bit outdated)
@@ -42,6 +43,8 @@
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LQJ3YWH29CG0&keywords=accelerate&qid=1642423590&s=books&sprefix=accelerate%2Cstripbooks%2C191&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74)
 - [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/)
 - [JavaScript: The Definitive Guide, 7th Edition](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+
+</div>
 <!--
 recomendações de leitura
 apresentação de projetos e repositórios
