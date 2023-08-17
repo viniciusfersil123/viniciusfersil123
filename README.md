@@ -13,6 +13,7 @@
   <img src="https://user-images.githubusercontent.com/54585175/148278420-9b1f58ce-6d5c-4ae9-b9bb-2326918fc470.png" width="50"> 
   <img src="https://user-images.githubusercontent.com/54585175/149573249-6d4f3869-d626-44d3-b4d7-61fa590cac47.png" width="50"  >
   <img src="https://user-images.githubusercontent.com/54585175/148272407-1a35d2c3-a8de-4887-b1af-c534cf77e47f.png" width="50"  >
+  <img src="https://github.com/viniciusfersil123/viniciusfersil123/assets/54585175/a3601303-3508-40ae-8da5-2504a299724a" width="50"  >
   <img src="https://user-images.githubusercontent.com/54585175/148278084-278d3511-90c8-42b7-89e9-08f3c12d3bd1.png" width="50"  >
   <img src="https://user-images.githubusercontent.com/54585175/149572479-b4b922a7-11d3-47d6-bde4-ea60e3d2d73b.png" width="50"  > 
   <img src="https://user-images.githubusercontent.com/54585175/148278223-386fc127-2ac0-4240-b93b-837bcdd9635e.jpg" width="50"  >
