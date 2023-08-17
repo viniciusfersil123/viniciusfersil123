@@ -4,7 +4,7 @@
  </div>
   <div  align="center">
 <span>
-<img src="https://user-images.githubusercontent.com/54585175/183428282-667a6ee5-622e-406c-a745-c25440d47384.png" height= "50" > 
+<img src="https://github.com/viniciusfersil123/viniciusfersil123/assets/54585175/b3ce0265-ef0b-49b8-ad75-0dc89dd14864" height= "50" > 
 <img src="https://user-images.githubusercontent.com/54585175/183428282-667a6ee5-622e-406c-a745-c25440d47384.png" height= "50" > 
 <img src="https://user-images.githubusercontent.com/54585175/149568617-9d7ce3ca-6edd-42f1-870d-0ce18d6227d2.png" width="50"  > 
 <img src="https://user-images.githubusercontent.com/54585175/148270383-e1d7eb6a-2b17-4a06-b762-ae922396b998.png" width="50"  >
