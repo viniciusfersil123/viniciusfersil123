@@ -23,7 +23,7 @@
 <br>
 
 - 🏙️  Based in São Paulo - SP, Brazil
-- 🔭Currently working as web developer in [UOL](https://www.uol.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.instagram.com/menislofi/)<br />
+- 🔭Currently working as web developer in [UOL](https://www.uol.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.menis.io/)<br />
 - 🎨 I am also an artist and musician, you can check my [Cargo Collective page](http://cargocollective.com/viniciusfernandess/) (a little bit outdated)
 - 🎓 I have two BAs: 📖 Literary Studies (UNICAMP) and 🧬 Biological Sciences (UNESP). I also have a MA in 🔊 Music (USP) and I am currently in a Computer Science PhD in USP, with musical computation as my specialization. You can check my [academic resumeé]( http://lattes.cnpq.br/2493782358372786)
 - 🌱 I’m currently learning: I am currently studying C++ with focus on embedded audio programming.
