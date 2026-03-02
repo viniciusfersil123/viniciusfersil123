@@ -22,21 +22,32 @@
 <br>
 <br>
 
-- 🏙️ Berlin - Germany
-- 🔭Currently working as web developer in [UOL](https://www.uol.com.br/) and as embedded hardware developer for audio and music purposes in [Menis](https://www.menis.io/)<br />
-- 🎨 I am also an artist and musician, you can check my [Cargo Collective page](http://cargocollective.com/viniciusfernandess/) (a little bit outdated)
-- 🎓 I have two BAs: 📖 Literary Studies (UNICAMP) and 🧬 Biological Sciences (UNESP). I also have a MA in 🔊 Music (USP) and I am currently in a Computer Science PhD in USP, with musical computation as my specialization. You can check my [academic resumeé]( http://lattes.cnpq.br/2493782358372786)
-- 🌱 I’m currently learning: I am currently studying C++ with focus on embedded audio programming.
-- 📫 How to reach me: viniciusfersil@gmail.com
-- Languages: 🇧🇷 Brazilian Portuguese/ 🇬🇧 English / 🇩🇪 Intermediate German
+- 🏙️ **Berlin, Germany**
+- 🔭 **Software Engineer / Full-Stack Developer** with 6+ years of experience in scalable web systems and cloud infrastructure, and **Embedded & DSP Developer** focused on audio and musical computation.
+- 🧠 **Currently** working with **embedded audio systems, DSP algorithms, and full-stack web development**, with experience in Node.js, Vue.js, React, AWS, Docker, and C/C++ for embedded platforms.
+- 🎛️ **Founder & Developer at MENIS Tech Design** — development of digital musical instruments, custom embedded audio solutions, and workshops on embedded audio systems and musical IoT.
+- 🎓 **PhD candidate in Computer Science**  
+  - **University of São Paulo (USP)** & **Technische Universität Berlin (TU Berlin)** (cotutelle)  
+  - Research focus: **Digital Signal Processing (DSP) for embedded musical computation**, with a critical perspective on technological autonomy.
+- 🎼 **MA in Music** (USP)  
+  - Research on sound, media, and experimental artistic practices.
+- 📚 **BA in Literary Studies** (UNICAMP)  
+- 🧬 **BA in Biological Sciences** (UNESP)
+- 🧑‍💻 **Open-source contributor** to **DaisySP**, focusing on DSP algorithms for resource-constrained embedded audio platforms.
+- 🎨 **Artist and musician**, working at the intersection of sound, technology, and critical research  
+  (portfolio: http://cargocollective.com/viniciusfernandess — slightly outdated)
+- 🌱 **Current interests:** Embedded DSP, audio systems, C/C++, real-time sound synthesis, critical studies of technology, and open hardware/software ecosystems.
+- 📫 **How to reach me:** viniciusfersil@gmail.com
+- 🌍 **Languages:**  
+  🇧🇷 Portuguese (native) · 🇬🇧 English (C1) · 🇩🇪 German (B2)
+
 ## Currently Reading 📖
-- [Theory and Techniques of Electronic Music - Miller Puckette](http://msp.ucsd.edu/techniques/v0.03/book.pdf)
-## Last Tech Books Read 📚
-- [Operating Systems: Design and Implementation](https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388)
-- [Learning React: Modern Patterns for Developing React Apps](https://www.amazon.com.br/Learning-React-2e-Eve-Porcello/dp/1492051721)
-- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LQJ3YWH29CG0&keywords=accelerate&qid=1642423590&s=books&sprefix=accelerate%2Cstripbooks%2C191&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74)
-- [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/)
-- [JavaScript: The Definitive Guide, 7th Edition](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+- [Theory and Techniques of Electronic Music – Miller Puckette](http://msp.ucsd.edu/techniques/v0.03/book.pdf)
+
+## Academic & Professional Links 🔗
+- 🔗 **GitHub:** https://github.com/viniciusfersil123  
+- 🔗 **LinkedIn:** https://linkedin.com/in/viniciusfersil  
+- 🔗 **Academic CV (Lattes):** http://lattes.cnpq.br/2493782358372786
 <!--
 recomendações de leitura
 apresentação de projetos e repositórios
